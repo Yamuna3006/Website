@@ -1,0 +1,14 @@
+.nav1{
+    position: fixed;
+    top: 0;
+    
+    }.main a{
+        text-decoration: none;
+    
+    }
+    .large_img{
+        background-image: url('https://img.freepik.com/free-vector/hand-drawn-supermarket-sale-background_23-2149406388.jpg?t=st=1731578172~exp=1731581772~hmac=69152014224bf3a78bc17632764f2d348fd819eba42d61755d5851ee61c4cb81&w=740');
+        background-size: cover;
+        width: fit-content;
+        background-position: center;
+    }
